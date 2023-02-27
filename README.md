@@ -6,7 +6,7 @@ Tristan Kessler
 kessler@gbd-consult.de
 ```
 
-Für die folgenden Befehle müsst ihr euch im Plugin Ordner befinden.
+Für die folgenden Befehle müsst st ihr euch im Plugin Ordner befinden.
 
 Das Plugin wird kompiliert mit:
 ```bash
@@ -15,5 +15,5 @@ make deploy
 
 Zip Datei erstellen mit:
 ```bash
-make deploy
+make zip
 ```
